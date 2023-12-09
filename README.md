@@ -43,9 +43,9 @@ This C++ program for managing employee data. It includes a class Employe to repr
 ```
 ## How if I want to view employee data?
 ```
-Matricule : 156
-Nom complet : employe156 employe156
-Age : 31
-Anciennete : 10 ans
-Salaire : 15600
+Matricule : 101
+Nom complet : Smith John
+Age : 43
+Anciennete : 13 ans
+Salaire : 60000
 ```
